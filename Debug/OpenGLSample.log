@@ -1,0 +1,23 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(534,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (2D Triangles.vcxproj, 3D Pyramid.vcxproj, OpenGLSample.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Source.cpp
+C:\Users\kreac\Downloads\3DScene (6)\3DScene\OpenGLSample\shader.h(57,34): warning C4101: 'e': unreferenced local variable
+C:\Users\kreac\Downloads\3DScene (6)\3DScene\OpenGLSample\Source.cpp(316,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\kreac\Downloads\3DScene (6)\3DScene\OpenGLSample\Source.cpp(346,56): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\kreac\Downloads\3DScene (6)\3DScene\OpenGLSample\Source.cpp(347,60): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\kreac\Downloads\3DScene (6)\3DScene\OpenGLSample\Source.cpp(354,56): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\kreac\Downloads\3DScene (6)\3DScene\OpenGLSample\Source.cpp(355,60): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\kreac\Downloads\3DScene (6)\3DScene\OpenGLSample\Source.cpp(362,56): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\kreac\Downloads\3DScene (6)\3DScene\OpenGLSample\Source.cpp(363,60): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\kreac\Downloads\3DScene (6)\3DScene\OpenGLSample\Source.cpp(370,56): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\kreac\Downloads\3DScene (6)\3DScene\OpenGLSample\Source.cpp(371,60): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\kreac\Downloads\3DScene (6)\3DScene\OpenGLSample\Source.cpp(379,51): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\kreac\Downloads\3DScene (6)\3DScene\OpenGLSample\Source.cpp(380,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\kreac\Downloads\3DScene (6)\3DScene\OpenGLSample\Source.cpp(425,60): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\kreac\Downloads\3DScene (6)\3DScene\OpenGLSample\Source.cpp(564,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\kreac\Downloads\3DScene (6)\3DScene\OpenGLSample\Source.cpp(565,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\kreac\Downloads\3DScene (6)\3DScene\OpenGLSample\Source.cpp(569,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\kreac\Downloads\3DScene (6)\3DScene\OpenGLSample\Source.cpp(570,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\kreac\Downloads\3DScene (6)\3DScene\OpenGLSample\Source.cpp(571,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\kreac\Downloads\3DScene (6)\3DScene\OpenGLSample\Source.cpp(572,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\kreac\Downloads\3DScene (6)\3DScene\OpenGLSample\Source.cpp(581,28): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  OpenGLSample.vcxproj -> C:\Users\kreac\Downloads\3DScene (6)\3DScene\Debug\3D Scene.exe
